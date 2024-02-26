@@ -81,6 +81,7 @@ main {
 /* about section styles */
 section{
     margin-top: 130px;
+    text-align: center;
 }
 .about {
     text-align: center;
@@ -91,11 +92,9 @@ section{
 }
 
 .section-title {
-    text-align: center;
     margin-bottom: 50px;
     font-weight: 700;
     font-size: 35px;
-
 }
 
 .section-description {
@@ -181,7 +180,7 @@ section{
     padding: 130px 200px;
 }
 .section-title{
-    text-align: left;
+    text-align: center;
 }
 .contact input[type="text"],input[type="email"],textarea{
     margin-bottom: 24px;
